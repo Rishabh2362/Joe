@@ -2,6 +2,9 @@
 /**
  *Joe WordPress Theme
  *
+ *@package WordPress
+ *@subpackage Joe
+ *
  */
 ?>
 <!DOCTYPE html>
